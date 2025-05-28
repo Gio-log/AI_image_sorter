@@ -1,0 +1,3 @@
+assets/*
+!assets/image_sorter_model.pth
+src/__pycache__
