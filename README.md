@@ -75,7 +75,7 @@ A desktop application built with **PyQt5** for automatically sorting images into
 - This project is designed with modularity in mind – models, logic, and UI components are separated for ease of future updates or enhancements.  
 
 
-## Future Plans (Optional)
+## Future Plans
 
 Although no immediate expansions are planned, the architecture allows for potential improvements such as:
 
