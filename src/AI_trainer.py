@@ -33,7 +33,7 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # Training Loop
-for epoch in range(5):  # use more epochs for real training
+for epoch in range(10):
     model.train()
     running_loss = 0.0
     for images, labels in dataloader:
