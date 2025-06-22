@@ -17,7 +17,6 @@ A desktop application built with **PyQt5** for automatically sorting images into
 
 - Python 3.7+
 - PyQt5
-- TensorFlow
 - PyTorch
 - Torchvision
 - PIL
